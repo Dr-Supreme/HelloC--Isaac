@@ -1,0 +1,14 @@
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\bin\Debug\net8.0\HellofromC#.exe
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\bin\Debug\net8.0\HellofromC#.deps.json
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\bin\Debug\net8.0\HellofromC#.runtimeconfig.json
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\bin\Debug\net8.0\HellofromC#.dll
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\bin\Debug\net8.0\HellofromC#.pdb
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.AssemblyInfoInputs.cache
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.AssemblyInfo.cs
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.csproj.CoreCompileInputs.cache
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.dll
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\refint\HellofromC#.dll
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.pdb
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\HellofromC#.genruntimeconfig.cache
+C:\Users\v23565w\source\repos\HellofromC#\HellofromC#\obj\Debug\net8.0\ref\HellofromC#.dll
