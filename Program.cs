@@ -12,3 +12,13 @@ Console.WriteLine("Hello " + name + " you are beautiful asf, i hope your studyin
 // dotnet new will create a new project
 // dotnet build will compile my application
 // dotnet run will execte the app
+
+
+Console.WriteLine("Welcome to isaacs C# learning Shop");
+Console.WriteLine("Please enter your name: ");
+
+string name2 = Console.ReadLine();
+string Name2 = Console.ReadLine();//these are different identifiers so itll work
+
+int monthlyWage = 0;
+//byte number = 256; // this wont work because bytes only store 0-255;
