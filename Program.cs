@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using HellofromC_;
 using System.Runtime.InteropServices;
 
 Console.WriteLine("Hello everybody!");
@@ -22,3 +23,9 @@ string Name2 = Console.ReadLine();//these are different identifiers so itll work
 
 int monthlyWage = 0;
 //byte number = 256; // this wont work because bytes only store 0-255;
+
+int amount = 1234;
+int months = 12;
+int yearlyWage = Utilities.CalculateYearlyWage(amount, months);
+
+Console.ReadLine();
